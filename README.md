@@ -26,16 +26,20 @@ A 4th Year Computer Science Student at The University of British Columbia
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
 </a>
 
-<a href="https://www.gnu.org/software/bash/" target="_blank">
-  <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="Bash" width="40" height="40"/>
-</a>
-
 <a href="https://en.wikipedia.org/wiki/Assembly_language" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Generic_Assembly_language_logo.svg" alt="Assembly" width="40" height="40"/>
+  <img src="https://www.svgrepo.com/show/373445/assembly.svg" alt="Assembly" width="40" height="40"/>
 </a>
 
 <a href="https://git-scm.com/" target="_blank">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
+</a>
+
+<a href="https://www.r-project.org/" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="R" width="40" height="40"/>
+</a>
+
+<a href="https://developer.apple.com/swift/" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="Swift" width="40" height="40"/>
 </a>
 
 
@@ -43,7 +47,7 @@ A 4th Year Computer Science Student at The University of British Columbia
 
 
 ### [sebcsiz](https://github.com/sebcsiz/sebcsiz)
-- 🕓 Last Commit: Initial commit
+- 🕓 Last Commit: Update profile README
 - 🧮 Languages: N/A
 - ➕ Lines Added: 0  ➖ Lines Deleted: 0
 
