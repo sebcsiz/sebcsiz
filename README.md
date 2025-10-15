@@ -1,3 +1,9 @@
+# 👋 Hi, I'm Sebastian Csizmazia
+
+A 4th Year Computer Science Student at The University of British Columbia
+
+![Profile views](https://komarev.com/ghpvc/?username=sebcsiz&label=Profile%20views&color=0e75b6&style=flat)
+
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=sebcsiz&show_icons=true&theme=radical" alt="GitHub Stats" /></p>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sebcsiz&layout=compact&theme=radical" alt="Top Languages" /></p>
 # 👋 Hi, I'm Sebastian Csizmazia
@@ -66,4 +72,4 @@ A 4th Year Computer Science Student at The University of British Columbia
 - ➕ Lines Added: 1982  ➖ Lines Deleted: 0
 
 
-🕓 _Last updated on October 14, 2025_
+🕓 _Last updated on October 15, 2025_
