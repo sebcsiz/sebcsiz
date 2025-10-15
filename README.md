@@ -53,17 +53,17 @@ A 4th Year Computer Science Student at The University of British Columbia
 ### [sebcsiz](https://github.com/sebcsiz/sebcsiz)
 - 🕓 Last Commit: Update profile README
 - 🧮 Languages: N/A
-- ➕ Lines Added: 0  ➖ Lines Deleted: 0
+- ➕ Lines Added: 86  ➖ Lines Deleted: 17
 
 ### [COSC213-Project](https://github.com/sebcsiz/COSC213-Project)
 - 🕓 Last Commit: added files
 - 🧮 Languages: CSS 49.5%, PHP 44.0%, Hack 6.5%
-- ➕ Lines Added: 1140  ➖ Lines Deleted: 0
+- ➕ Lines Added: 0  ➖ Lines Deleted: 0
 
 ### [COSC318-Project](https://github.com/sebcsiz/COSC318-Project)
 - 🕓 Last Commit: added files
 - 🧮 Languages: Java 87.8%, CSS 12.2%
-- ➕ Lines Added: 1982  ➖ Lines Deleted: 0
+- ➕ Lines Added: 0  ➖ Lines Deleted: 0
 
 
 🕓 _Last updated on October 15, 2025_
