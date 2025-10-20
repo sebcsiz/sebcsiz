@@ -53,7 +53,7 @@ A 4th Year Computer Science Student at The University of British Columbia
 ### [sebcsiz](https://github.com/sebcsiz/sebcsiz)
 - 🕓 Last Commit: Update profile README
 - 🧮 Languages: N/A
-- ➕ Lines Added: 94  ➖ Lines Deleted: 25
+- ➕ Lines Added: 0  ➖ Lines Deleted: 0
 
 ### [COSC213-Project](https://github.com/sebcsiz/COSC213-Project)
 - 🕓 Last Commit: added files
