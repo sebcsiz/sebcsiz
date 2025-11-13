@@ -50,16 +50,16 @@ A 4th Year Computer Science Student at The University of British Columbia
 ## 🧠 Latest Projects
 
 
+### [sebcsiz](https://github.com/sebcsiz/sebcsiz)
+- 🕓 Last Commit: Update profile README
+- 🧮 Languages: N/A
+- ➕ Lines Added: 0  ➖ Lines Deleted: 0
+
 ### [COSC341-Project](https://github.com/sebcsiz/COSC341-Project)
 - 🕓 Last Commit: Merge pull request #4 from sebcsiz/Samuell-Booking-Profile
 
 Added my tasks and an empty activity that will be login. There still is lacking styling and some other aesthetic choices but the activities are fully functional. For testing I added a sample intent in BookingActivity.java
 - 🧮 Languages: Java 100.0%
-- ➕ Lines Added: 0  ➖ Lines Deleted: 0
-
-### [sebcsiz](https://github.com/sebcsiz/sebcsiz)
-- 🕓 Last Commit: Update profile README
-- 🧮 Languages: N/A
 - ➕ Lines Added: 0  ➖ Lines Deleted: 0
 
 ### [COSC213-Project](https://github.com/sebcsiz/COSC213-Project)
