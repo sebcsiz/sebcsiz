@@ -60,7 +60,7 @@ A 4th Year Computer Science Student at The University of British Columbia
 
 Added my tasks and an empty activity that will be login. There still is lacking styling and some other aesthetic choices but the activities are fully functional. For testing I added a sample intent in BookingActivity.java
 - 🧮 Languages: Java 100.0%
-- ➕ Lines Added: 0  ➖ Lines Deleted: 0
+- ➕ Lines Added: 2583  ➖ Lines Deleted: 82
 
 ### [COSC213-Project](https://github.com/sebcsiz/COSC213-Project)
 - 🕓 Last Commit: added files
@@ -68,4 +68,4 @@ Added my tasks and an empty activity that will be login. There still is lacking 
 - ➕ Lines Added: 0  ➖ Lines Deleted: 0
 
 
-🕓 _Last updated on November 16, 2025_
+🕓 _Last updated on November 17, 2025_
