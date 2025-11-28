@@ -50,16 +50,14 @@ A 4th Year Computer Science Student at The University of British Columbia
 ## 🧠 Latest Projects
 
 
+### [COSC341-Project](https://github.com/sebcsiz/COSC341-Project)
+- 🕓 Last Commit: Revert Back to 0637dc9
+- 🧮 Languages: Java 100.0%
+- ➕ Lines Added: 0  ➖ Lines Deleted: 0
+
 ### [sebcsiz](https://github.com/sebcsiz/sebcsiz)
 - 🕓 Last Commit: Update profile README
 - 🧮 Languages: N/A
-- ➕ Lines Added: 0  ➖ Lines Deleted: 0
-
-### [COSC341-Project](https://github.com/sebcsiz/COSC341-Project)
-- 🕓 Last Commit: Merge pull request #6 from sebcsiz/tour_listing
-
-tour listing features, login page
-- 🧮 Languages: Java 100.0%
 - ➕ Lines Added: 0  ➖ Lines Deleted: 0
 
 ### [COSC213-Project](https://github.com/sebcsiz/COSC213-Project)
@@ -68,4 +66,4 @@ tour listing features, login page
 - ➕ Lines Added: 0  ➖ Lines Deleted: 0
 
 
-🕓 _Last updated on November 27, 2025_
+🕓 _Last updated on November 28, 2025_
