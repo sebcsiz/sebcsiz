@@ -50,15 +50,17 @@ A 4th Year Computer Science Student at The University of British Columbia
 ## 🧠 Latest Projects
 
 
+### [COSC341-Project](https://github.com/sebcsiz/COSC341-Project)
+- 🕓 Last Commit: Merge pull request #7 from sebcsiz/Sebastian-ComparingTours
+
+Compare Wine Tours
+- 🧮 Languages: Java 100.0%
+- ➕ Lines Added: 0  ➖ Lines Deleted: 0
+
 ### [sebcsiz](https://github.com/sebcsiz/sebcsiz)
 - 🕓 Last Commit: Update profile README
 - 🧮 Languages: N/A
 - ➕ Lines Added: 0  ➖ Lines Deleted: 0
-
-### [COSC341-Project](https://github.com/sebcsiz/COSC341-Project)
-- 🕓 Last Commit: Revert Back to 0637dc9
-- 🧮 Languages: Java 100.0%
-- ➕ Lines Added: 3785  ➖ Lines Deleted: 1290
 
 ### [COSC213-Project](https://github.com/sebcsiz/COSC213-Project)
 - 🕓 Last Commit: added files
@@ -66,4 +68,4 @@ A 4th Year Computer Science Student at The University of British Columbia
 - ➕ Lines Added: 0  ➖ Lines Deleted: 0
 
 
-🕓 _Last updated on November 28, 2025_
+🕓 _Last updated on November 29, 2025_
