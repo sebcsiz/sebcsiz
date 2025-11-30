@@ -50,15 +50,17 @@ A 4th Year Computer Science Student at The University of British Columbia
 ## 🧠 Latest Projects
 
 
+### [COSC341-Project](https://github.com/sebcsiz/COSC341-Project)
+- 🕓 Last Commit: Merge pull request #10 from sebcsiz/Janine-WinerySearch
+
+making listView background not transparent
+- 🧮 Languages: Java 100.0%
+- ➕ Lines Added: 0  ➖ Lines Deleted: 0
+
 ### [sebcsiz](https://github.com/sebcsiz/sebcsiz)
 - 🕓 Last Commit: Update profile README
 - 🧮 Languages: N/A
 - ➕ Lines Added: 0  ➖ Lines Deleted: 0
-
-### [COSC341-Project](https://github.com/sebcsiz/COSC341-Project)
-- 🕓 Last Commit: Merge remote-tracking branch 'origin/main'
-- 🧮 Languages: Java 100.0%
-- ➕ Lines Added: 5814  ➖ Lines Deleted: 1709
 
 ### [COSC213-Project](https://github.com/sebcsiz/COSC213-Project)
 - 🕓 Last Commit: added files
