@@ -51,9 +51,9 @@ A 4th Year Computer Science Student at The University of British Columbia
 
 
 ### [COSC341-Project](https://github.com/sebcsiz/COSC341-Project)
-- 🕓 Last Commit: Merge pull request #15 from sebcsiz/Janine-WinerySearch
+- 🕓 Last Commit: Merge pull request #26 from sebcsiz/Janine-WinerySearch
 
-working on winery info page
+adding comments
 - 🧮 Languages: Java 100.0%
 - ➕ Lines Added: 0  ➖ Lines Deleted: 0
 
