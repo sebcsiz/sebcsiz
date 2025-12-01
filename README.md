@@ -51,9 +51,9 @@ A 4th Year Computer Science Student at The University of British Columbia
 
 
 ### [COSC341-Project](https://github.com/sebcsiz/COSC341-Project)
-- 🕓 Last Commit: Merge pull request #10 from sebcsiz/Janine-WinerySearch
+- 🕓 Last Commit: Merge pull request #15 from sebcsiz/Janine-WinerySearch
 
-making listView background not transparent
+working on winery info page
 - 🧮 Languages: Java 100.0%
 - ➕ Lines Added: 0  ➖ Lines Deleted: 0
 
@@ -68,4 +68,4 @@ making listView background not transparent
 - ➕ Lines Added: 0  ➖ Lines Deleted: 0
 
 
-🕓 _Last updated on November 30, 2025_
+🕓 _Last updated on December 01, 2025_
