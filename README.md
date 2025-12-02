@@ -51,7 +51,9 @@ A 4th Year Computer Science Student at The University of British Columbia
 
 
 ### [COSC341-Project](https://github.com/sebcsiz/COSC341-Project)
-- 🕓 Last Commit: Merge remote-tracking branch 'origin/main'
+- 🕓 Last Commit: Merge pull request #27 from sebcsiz/Sebastian-ComparingTours
+
+Linked compare tours screen to home screen
 - 🧮 Languages: Java 100.0%
 - ➕ Lines Added: 0  ➖ Lines Deleted: 0
 
