@@ -51,9 +51,7 @@ A 4th Year Computer Science Student at The University of British Columbia
 
 
 ### [COSC341-Project](https://github.com/sebcsiz/COSC341-Project)
-- 🕓 Last Commit: Merge pull request #27 from sebcsiz/Sebastian-ComparingTours
-
-Linked compare tours screen to home screen
+- 🕓 Last Commit: Linked booking activities to my tours
 - 🧮 Languages: Java 100.0%
 - ➕ Lines Added: 0  ➖ Lines Deleted: 0
 
@@ -68,4 +66,4 @@ Linked compare tours screen to home screen
 - ➕ Lines Added: 0  ➖ Lines Deleted: 0
 
 
-🕓 _Last updated on December 02, 2025_
+🕓 _Last updated on December 03, 2025_
