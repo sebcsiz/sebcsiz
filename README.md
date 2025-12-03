@@ -51,7 +51,9 @@ A 4th Year Computer Science Student at The University of British Columbia
 
 
 ### [COSC341-Project](https://github.com/sebcsiz/COSC341-Project)
-- 🕓 Last Commit: Linked booking activities to my tours
+- 🕓 Last Commit: Merge pull request #37 from sebcsiz/Sahir-Reviews
+
+Upcoming tours now updates when a new tour has been booked
 - 🧮 Languages: Java 100.0%
 - ➕ Lines Added: 0  ➖ Lines Deleted: 0
 
