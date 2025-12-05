@@ -50,16 +50,16 @@ A 4th Year Computer Science Student at The University of British Columbia
 ## 🧠 Latest Projects
 
 
+### [sebcsiz](https://github.com/sebcsiz/sebcsiz)
+- 🕓 Last Commit: Update profile README
+- 🧮 Languages: N/A
+- ➕ Lines Added: 0  ➖ Lines Deleted: 0
+
 ### [COSC341-Project](https://github.com/sebcsiz/COSC341-Project)
 - 🕓 Last Commit: Merge pull request #40 from sebcsiz/Janine-WinerySearch
 
 adjusting toast message in search activity
 - 🧮 Languages: Java 100.0%
-- ➕ Lines Added: 0  ➖ Lines Deleted: 0
-
-### [sebcsiz](https://github.com/sebcsiz/sebcsiz)
-- 🕓 Last Commit: Update profile README
-- 🧮 Languages: N/A
 - ➕ Lines Added: 0  ➖ Lines Deleted: 0
 
 ### [COSC213-Project](https://github.com/sebcsiz/COSC213-Project)
