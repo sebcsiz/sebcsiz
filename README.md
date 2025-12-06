@@ -63,9 +63,9 @@ adjusting toast message in search activity
 - ➕ Lines Added: 0  ➖ Lines Deleted: 0
 
 ### [COSC213-Project](https://github.com/sebcsiz/COSC213-Project)
-- 🕓 Last Commit: added files
-- 🧮 Languages: CSS 49.5%, PHP 44.0%, Hack 6.5%
+- 🕓 Last Commit: No recent commits
+- 🧮 Languages: N/A
 - ➕ Lines Added: 0  ➖ Lines Deleted: 0
 
 
-🕓 _Last updated on December 05, 2025_
+🕓 _Last updated on December 06, 2025_
