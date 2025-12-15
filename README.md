@@ -50,15 +50,15 @@ A 4th Year Computer Science Student at The University of British Columbia
 ## 🧠 Latest Projects
 
 
-### [open-xg-tracker](https://github.com/sebcsiz/open-xg-tracker)
-- 🕓 Last Commit: No recent commits
-- 🧮 Languages: N/A
-- ➕ Lines Added: 0  ➖ Lines Deleted: 0
-
 ### [sebcsiz](https://github.com/sebcsiz/sebcsiz)
 - 🕓 Last Commit: Update profile README
 - 🧮 Languages: N/A
 - ➕ Lines Added: 0  ➖ Lines Deleted: 0
 
+### [open-xg-tracker](https://github.com/sebcsiz/open-xg-tracker)
+- 🕓 Last Commit: No recent commits
+- 🧮 Languages: N/A
+- ➕ Lines Added: 0  ➖ Lines Deleted: 0
 
-🕓 _Last updated on December 13, 2025_
+
+🕓 _Last updated on December 15, 2025_
