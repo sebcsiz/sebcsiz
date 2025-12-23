@@ -1,64 +1,109 @@
 # 👋 Hi, I'm Sebastian Csizmazia
-
 A 4th Year Computer Science Student at The University of British Columbia
 
-![Profile views](https://komarev.com/ghpvc/?username=sebcsiz&label=Profile%20views&color=0e75b6&style=flat)
+<p align="center">
+  ![Profile views](https://komarev.com/ghpvc/?username=sebcsiz&label=Profile%20views&color=0e75b6&style=flat)
+</p>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=sebcsiz&show_icons=true&theme=radical" alt="GitHub Stats" /></p>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sebcsiz&layout=compact&theme=radical" alt="Top Languages" /></p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sebcsiz&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sebcsiz&layout=compact&theme=radical" alt="Top Languages" /> -->
+  <img src="assets/terminal.gif" alt="Skills"/>
+</p>
 
+## 🛠 Languages & Tech Stack
+<p align="center">
 
-<!-- Tech / Tools -->
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" title="Python" width="40" height="40"/>
+  </a>&nbsp;
 
-<a href="https://www.python.org" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-</a>
+  <a href="https://www.java.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" title="Java" width="40" height="40"/>
+  </a>&nbsp;
 
-<a href="https://www.java.com" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-</a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" title="JavaScript" width="40" height="40"/>
+  </a>&nbsp;
 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-</a>
+  <a href="https://www.php.net" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" title="PHP" width="40" height="40"/>
+  </a>&nbsp;
 
-<a href="https://www.php.net" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
-</a>
+  <a href="https://www.r-project.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="R" title="R" width="40" height="40"/>
+  </a>&nbsp;
 
-<a href="https://www.linux.org" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
-</a>
+  <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="Swift" title="Swift" width="40" height="40"/>
+  </a>&nbsp;
 
-<a href="https://en.wikipedia.org/wiki/Assembly_language" target="_blank">
-  <img src="https://www.svgrepo.com/show/373445/assembly.svg" alt="Assembly" width="40" height="40"/>
-</a>
+  <a href="https://en.wikipedia.org/wiki/Assembly_language" target="_blank" rel="noreferrer">
+    <img src="https://www.svgrepo.com/show/373445/assembly.svg" alt="Assembly" title="Assembly" width="40" height="40"/>
+  </a>&nbsp;
 
-<a href="https://git-scm.com/" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
-</a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" title="HTML" width="40" height="40"/>
+  </a>&nbsp;
 
-<a href="https://www.r-project.org/" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="R" width="40" height="40"/>
-</a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" title="CSS" width="40" height="40"/>
+  </a>&nbsp;
 
-<a href="https://developer.apple.com/swift/" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="Swift" width="40" height="40"/>
-</a>
+  <a href="https://www.linux.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" title="Linux" width="40" height="40"/>
+  </a>&nbsp;
 
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" title="Git" width="40" height="40"/>
+  </a>&nbsp;
+
+  <a href="https://www.mysql.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" title="MySQL" width="40" height="40"/>
+  </a>&nbsp;
+
+  <a href="https://www.sqlite.org" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="SQLite" title="SQLite" width="40" height="40"/>
+  </a>&nbsp;
+
+  <a href="https://developer.android.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="Android" title="Android" width="40" height="40"/>
+  </a>&nbsp;
+
+  <a href="https://developer.apple.com/xcode/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/xcode/xcode-original.svg" alt="Xcode" title="Xcode" width="40" height="40"/>
+  </a>&nbsp;
+
+</p>
 
 ## 🧠 Latest Projects
 
+<p>
+  <b style="color:#1f6feb;font-size:18px;">COSC341-Project</b><br>
+  - 🕓 Last Commit: <span style="color:#6a737d;">`52117c2`</span>: <span style="font-weight:normal;">Merge pull request #40 from sebcsiz/Janine-WinerySearch</span> -  adjusting toast message in search activity<br>
+  - 🧮 Languages: Java 100.0%<br>
+  - <span style="color:green;">➕ Lines Added: 13269</span> <span style="color:red;">➖ Lines Deleted: 3483</span>
+</p>
 
-### [sebcsiz](https://github.com/sebcsiz/sebcsiz)
-- 🕓 Last Commit: Update profile README
-- 🧮 Languages: N/A
-- ➕ Lines Added: 0  ➖ Lines Deleted: 0
+<p>
+  <b style="color:#1f6feb;font-size:18px;">sebcsiz</b><br>
+  - 🕓 Last Commit: <span style="color:#6a737d;">`c5b5060`</span>: <span style="font-weight:normal;">Update profile README</span><br>
+  - 🧮 Languages: N/A<br>
+  - <span style="color:green;">➕ Lines Added: 281</span> <span style="color:red;">➖ Lines Deleted: 217</span>
+</p>
 
-### [open-xg-tracker](https://github.com/sebcsiz/open-xg-tracker)
-- 🕓 Last Commit: No recent commits
-- 🧮 Languages: N/A
-- ➕ Lines Added: 0  ➖ Lines Deleted: 0
+<p>
+  <b style="color:#1f6feb;font-size:18px;">Amazon-Clone</b><br>
+  - 🕓 Last Commit: <span style="color:#6a737d;">`df266a1`</span>: <span style="font-weight:normal;">Merge pull request #60 from JUICEM0N/admin-frontend</span> -  Admin Dashboard Frontend<br>
+  - 🧮 Languages: Python 98.7%, JavaScript 0.9%, CSS 0.2%, PowerShell 0.1%, Shell 0.1%, Dockerfile 0.0%, TypeScript 0.0%<br>
+  - <span style="color:green;">➕ Lines Added: 262270</span> <span style="color:red;">➖ Lines Deleted: 57607</span>
+</p>
 
+<p>🕓 Last updated on December 23, 2025</p>
 
-🕓 _Last updated on December 22, 2025_
+## 🎵 What I'm listening to
+<p align="center">
+  <a href="https://data-card-for-spotify.herokuapp.com/card?user_id=c12177681257">
+    <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=12177681257" alt="Data Card for Spotify">
+  </a>
+</p>
