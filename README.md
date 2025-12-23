@@ -78,9 +78,9 @@ A 4th Year Computer Science Student at The University of British Columbia
 
 <p>
   <b style="color:#1f6feb;font-size:18px;">sebcsiz</b><br>
-  - 🕓 Last Commit: <span style="color:#6a737d;">`66c5e84`</span> <span style="font-weight:normal;">Auto-update README</span><br>
+  - 🕓 Last Commit: <span style="color:#6a737d;">`N/A`</span> <span style="font-weight:normal;">No recent commits</span><br>
   - 🧮 Languages: N/A<br>
-  - <span style="color:green;">➕ Lines Added: 375</span> <span style="color:red;">➖ Lines Deleted: 266</span>
+  - <span style="color:green;">➕ Lines Added: 0</span> <span style="color:red;">➖ Lines Deleted: 0</span>
 </p>
 
 <p>
@@ -92,7 +92,7 @@ A 4th Year Computer Science Student at The University of British Columbia
 
 <p>
   <b style="color:#1f6feb;font-size:18px;">Amazon-Clone</b><br>
-  - 🕓 Last Commit: <span style="color:#6a737d;">`df266a1`</span> <span style="font-weight:normal;">Merge pull request #60 from JUICEM0N/admin-frontend</span> -  Admin Dashboard Frontend<br>
+  - 🕓 Last Commit: <span style="color:#6a737d;">`N/A`</span> <span style="font-weight:normal;">No recent commits</span><br>
   - 🧮 Languages: Python 98.7%, JavaScript 0.9%, CSS 0.2%, PowerShell 0.1%, Shell 0.1%, Dockerfile 0.0%, TypeScript 0.0%<br>
   - <span style="color:green;">➕ Lines Added: 262270</span> <span style="color:red;">➖ Lines Deleted: 57607</span>
 </p>
