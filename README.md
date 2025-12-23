@@ -1,13 +1,11 @@
 # 👋 Hi, I'm Sebastian Csizmazia
 A 4th Year Computer Science Student at The University of British Columbia
 
-<p align="center">
-  ![Profile views](https://komarev.com/ghpvc/?username=sebcsiz&label=Profile%20views&color=0e75b6&style=flat)
-</p>
+![Profile views](https://komarev.com/ghpvc/?username=sebcsiz&label=Profile%20views&color=0e75b6&style=flat)
+
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sebcsiz&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sebcsiz&layout=compact&theme=radical" alt="Top Languages" /> -->
   <img src="assets/terminal.gif" alt="Skills"/>
 </p>
 
@@ -80,30 +78,31 @@ A 4th Year Computer Science Student at The University of British Columbia
 
 <p>
   <b style="color:#1f6feb;font-size:18px;">sebcsiz</b><br>
-  - 🕓 Last Commit: <span style="color:#6a737d;">`f37aff1`</span>: <span style="font-weight:normal;">Auto-update README</span><br>
+  - 🕓 Last Commit: <span style="color:#6a737d;">`66c5e84`</span> <span style="font-weight:normal;">Auto-update README</span><br>
   - 🧮 Languages: N/A<br>
-  - <span style="color:green;">➕ Lines Added: 0</span> <span style="color:red;">➖ Lines Deleted: 0</span>
+  - <span style="color:green;">➕ Lines Added: 375</span> <span style="color:red;">➖ Lines Deleted: 266</span>
 </p>
 
 <p>
   <b style="color:#1f6feb;font-size:18px;">COSC341-Project</b><br>
-  - 🕓 Last Commit: <span style="color:#6a737d;">`52117c2`</span>: <span style="font-weight:normal;">Merge pull request #40 from sebcsiz/Janine-WinerySearch</span> -  adjusting toast message in search activity<br>
+  - 🕓 Last Commit: <span style="color:#6a737d;">`52117c2`</span> <span style="font-weight:normal;">Merge pull request #40 from sebcsiz/Janine-WinerySearch</span> -  adjusting toast message in search activity<br>
   - 🧮 Languages: Java 100.0%<br>
   - <span style="color:green;">➕ Lines Added: 13269</span> <span style="color:red;">➖ Lines Deleted: 3483</span>
 </p>
 
 <p>
   <b style="color:#1f6feb;font-size:18px;">Amazon-Clone</b><br>
-  - 🕓 Last Commit: <span style="color:#6a737d;">`df266a1`</span>: <span style="font-weight:normal;">Merge pull request #60 from JUICEM0N/admin-frontend</span> -  Admin Dashboard Frontend<br>
+  - 🕓 Last Commit: <span style="color:#6a737d;">`df266a1`</span> <span style="font-weight:normal;">Merge pull request #60 from JUICEM0N/admin-frontend</span> -  Admin Dashboard Frontend<br>
   - 🧮 Languages: Python 98.7%, JavaScript 0.9%, CSS 0.2%, PowerShell 0.1%, Shell 0.1%, Dockerfile 0.0%, TypeScript 0.0%<br>
   - <span style="color:green;">➕ Lines Added: 262270</span> <span style="color:red;">➖ Lines Deleted: 57607</span>
 </p>
 
 <p>🕓 Last updated on December 23, 2025</p>
 
+
 ## 🎵 What I'm listening to
 <p align="center">
-  <a href="https://data-card-for-spotify.herokuapp.com/card?user_id=c12177681257">
+  <a href="https://data-card-for-spotify.herokuapp.com/card?user_id=12177681257">
     <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=12177681257" alt="Data Card for Spotify">
   </a>
 </p>
