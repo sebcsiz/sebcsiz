@@ -78,7 +78,7 @@ A 4th Year Computer Science Student at The University of British Columbia
 
 <p>
   <b style="color:#1f6feb;font-size:18px;">sebcsiz</b><br>
-  - 🕓 Last Commit: <span style="color:#6a737d;">`70afd8d`</span> <span style="font-weight:normal;">Auto-update README</span><br>
+  - 🕓 Last Commit: <span style="color:#6a737d;">`b45ea57`</span> <span style="font-weight:normal;">Auto-update README</span><br>
   - 🧮 Languages: N/A<br>
   - <span style="color:green;">➕ Lines Added: 0</span> <span style="color:red;">➖ Lines Deleted: 0</span>
 </p>
@@ -97,7 +97,7 @@ A 4th Year Computer Science Student at The University of British Columbia
   - <span style="color:green;">➕ Lines Added: 0</span> <span style="color:red;">➖ Lines Deleted: 0</span>
 </p>
 
-<p>🕓 Last updated on January 04, 2026</p>
+<p>🕓 Last updated on January 05, 2026</p>
 
 
 ## 🎵 What I'm listening to
