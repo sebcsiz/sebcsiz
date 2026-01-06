@@ -78,7 +78,7 @@ A 4th Year Computer Science Student at The University of British Columbia
 
 <p>
   <b style="color:#1f6feb;font-size:18px;">sebcsiz</b><br>
-  - 🕓 Last Commit: <span style="color:#6a737d;">`7595471`</span> <span style="font-weight:normal;">Auto-update README</span><br>
+  - 🕓 Last Commit: <span style="color:#6a737d;">`400ffe3`</span> <span style="font-weight:normal;">Auto-update README</span><br>
   - 🧮 Languages: N/A<br>
   - <span style="color:green;">➕ Lines Added: 0</span> <span style="color:red;">➖ Lines Deleted: 0</span>
 </p>
@@ -93,11 +93,11 @@ A 4th Year Computer Science Student at The University of British Columbia
 <p>
   <b style="color:#1f6feb;font-size:18px;">COSC341-Project</b><br>
   - 🕓 Last Commit: <span style="color:#6a737d;">`52117c2`</span> <span style="font-weight:normal;">Merge pull request #40 from sebcsiz/Janine-WinerySearch</span> -  adjusting toast message in search activity<br>
-  - 🧮 Languages: N/A<br>
+  - 🧮 Languages: Java 100.0%<br>
   - <span style="color:green;">➕ Lines Added: 0</span> <span style="color:red;">➖ Lines Deleted: 0</span>
 </p>
 
-<p>🕓 Last updated on January 05, 2026</p>
+<p>🕓 Last updated on January 06, 2026</p>
 
 
 ## 🎵 What I'm listening to
