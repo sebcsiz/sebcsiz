@@ -78,15 +78,8 @@ A 4th Year Computer Science Student at The University of British Columbia
 
 <p>
   <b style="color:#1f6feb;font-size:18px;">sebcsiz</b><br>
-  - 🕓 Last Commit: <span style="color:#6a737d;">`0fc1249`</span> <span style="font-weight:normal;">Auto-update README</span><br>
+  - 🕓 Last Commit: <span style="color:#6a737d;">`2c6b359`</span> <span style="font-weight:normal;">Auto-update README</span><br>
   - 🧮 Languages: N/A<br>
-  - <span style="color:green;">➕ Lines Added: 0</span> <span style="color:red;">➖ Lines Deleted: 0</span>
-</p>
-
-<p>
-  <b style="color:#1f6feb;font-size:18px;">portfolio</b><br>
-  - 🕓 Last Commit: <span style="color:#6a737d;">`69e85c0`</span> <span style="font-weight:normal;">Initial push</span><br>
-  - 🧮 Languages: TypeScript 96.5%, JavaScript 1.7%, CSS 1.2%, HTML 0.5%<br>
   - <span style="color:green;">➕ Lines Added: 0</span> <span style="color:red;">➖ Lines Deleted: 0</span>
 </p>
 
@@ -94,6 +87,13 @@ A 4th Year Computer Science Student at The University of British Columbia
   <b style="color:#1f6feb;font-size:18px;">COSC341-Project</b><br>
   - 🕓 Last Commit: <span style="color:#6a737d;">`52117c2`</span> <span style="font-weight:normal;">Merge pull request #40 from sebcsiz/Janine-WinerySearch</span> -  adjusting toast message in search activity<br>
   - 🧮 Languages: Java 100.0%<br>
+  - <span style="color:green;">➕ Lines Added: 0</span> <span style="color:red;">➖ Lines Deleted: 0</span>
+</p>
+
+<p>
+  <b style="color:#1f6feb;font-size:18px;">Amazon-Clone</b><br>
+  - 🕓 Last Commit: <span style="color:#6a737d;">`df266a1`</span> <span style="font-weight:normal;">Merge pull request #60 from JUICEM0N/admin-frontend</span> -  Admin Dashboard Frontend<br>
+  - 🧮 Languages: Python 98.7%, JavaScript 0.9%, CSS 0.2%, PowerShell 0.1%, Shell 0.1%, Dockerfile 0.0%, TypeScript 0.0%<br>
   - <span style="color:green;">➕ Lines Added: 0</span> <span style="color:red;">➖ Lines Deleted: 0</span>
 </p>
 
