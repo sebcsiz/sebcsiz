@@ -77,16 +77,16 @@ A 4th Year Computer Science Student at The University of British Columbia
 ## 🧠 Latest Projects
 
 <p>
-  <b style="color:#1f6feb;font-size:18px;">portfolio</b><br>
-  - 🕓 Last Commit: <span style="color:#6a737d;">`b1d0c5a`</span> <span style="font-weight:normal;">Spelling, added scroll to top on logo click</span><br>
-  - 🧮 Languages: TypeScript 96.7%, JavaScript 1.6%, CSS 1.2%, HTML 0.5%<br>
+  <b style="color:#1f6feb;font-size:18px;">sebcsiz</b><br>
+  - 🕓 Last Commit: <span style="color:#6a737d;">`1de2185`</span> <span style="font-weight:normal;">Auto-update README</span><br>
+  - 🧮 Languages: N/A<br>
   - <span style="color:green;">➕ Lines Added: 0</span> <span style="color:red;">➖ Lines Deleted: 0</span>
 </p>
 
 <p>
-  <b style="color:#1f6feb;font-size:18px;">sebcsiz</b><br>
-  - 🕓 Last Commit: <span style="color:#6a737d;">`fd68679`</span> <span style="font-weight:normal;">Auto-update README</span><br>
-  - 🧮 Languages: N/A<br>
+  <b style="color:#1f6feb;font-size:18px;">portfolio</b><br>
+  - 🕓 Last Commit: <span style="color:#6a737d;">`b1d0c5a`</span> <span style="font-weight:normal;">Spelling, added scroll to top on logo click</span><br>
+  - 🧮 Languages: TypeScript 96.7%, JavaScript 1.6%, CSS 1.2%, HTML 0.5%<br>
   - <span style="color:green;">➕ Lines Added: 0</span> <span style="color:red;">➖ Lines Deleted: 0</span>
 </p>
 
@@ -97,7 +97,7 @@ A 4th Year Computer Science Student at The University of British Columbia
   - <span style="color:green;">➕ Lines Added: 0</span> <span style="color:red;">➖ Lines Deleted: 0</span>
 </p>
 
-<p>🕓 Last updated on January 08, 2026</p>
+<p>🕓 Last updated on January 09, 2026</p>
 
 
 ## 🎵 What I'm listening to
