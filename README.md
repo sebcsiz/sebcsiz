@@ -77,8 +77,15 @@ A 4th Year Computer Science Student at The University of British Columbia
 ## 🧠 Latest Projects
 
 <p>
+  <b style="color:#1f6feb;font-size:18px;">jersey-number-recognition-team8</b><br>
+  - 🕓 Last Commit: <span style="color:#6a737d;">`N/A`</span> <span style="font-weight:normal;">No recent commits</span><br>
+  - 🧮 Languages: N/A<br>
+  - <span style="color:green;">➕ Lines Added: 0</span> <span style="color:red;">➖ Lines Deleted: 0</span>
+</p>
+
+<p>
   <b style="color:#1f6feb;font-size:18px;">sebcsiz</b><br>
-  - 🕓 Last Commit: <span style="color:#6a737d;">`c1b863d`</span> <span style="font-weight:normal;">Auto-update README</span><br>
+  - 🕓 Last Commit: <span style="color:#6a737d;">`d63cb04`</span> <span style="font-weight:normal;">Auto-update README</span><br>
   - 🧮 Languages: N/A<br>
   - <span style="color:green;">➕ Lines Added: 0</span> <span style="color:red;">➖ Lines Deleted: 0</span>
 </p>
@@ -90,14 +97,7 @@ A 4th Year Computer Science Student at The University of British Columbia
   - <span style="color:green;">➕ Lines Added: 0</span> <span style="color:red;">➖ Lines Deleted: 0</span>
 </p>
 
-<p>
-  <b style="color:#1f6feb;font-size:18px;">COSC341-Project</b><br>
-  - 🕓 Last Commit: <span style="color:#6a737d;">`52117c2`</span> <span style="font-weight:normal;">Merge pull request #40 from sebcsiz/Janine-WinerySearch</span> -  adjusting toast message in search activity<br>
-  - 🧮 Languages: Java 100.0%<br>
-  - <span style="color:green;">➕ Lines Added: 0</span> <span style="color:red;">➖ Lines Deleted: 0</span>
-</p>
-
-<p>🕓 Last updated on February 10, 2026</p>
+<p>🕓 Last updated on February 16, 2026</p>
 
 
 ## 🎵 What I'm listening to
