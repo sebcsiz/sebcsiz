@@ -77,27 +77,27 @@ A 4th Year Computer Science Student at The University of British Columbia
 ## 🧠 Latest Projects
 
 <p>
-  <b style="color:#1f6feb;font-size:18px;">Soccer-Player-Performance-Analysis</b><br>
-  - 🕓 Last Commit: <span style="color:#6a737d;">`38a6e21`</span> <span style="font-weight:normal;">README fix and little code format change</span><br>
-  - 🧮 Languages: Jupyter Notebook 91.0%, Python 9.0%<br>
-  - <span style="color:green;">➕ Lines Added: 0</span> <span style="color:red;">➖ Lines Deleted: 0</span>
-</p>
-
-<p>
   <b style="color:#1f6feb;font-size:18px;">Options-Market-Return-Analysis</b><br>
-  - 🕓 Last Commit: <span style="color:#6a737d;">`766e5b8`</span> <span style="font-weight:normal;">Add updated paper</span><br>
+  - 🕓 Last Commit: <span style="color:#6a737d;">`e11d9d3`</span> <span style="font-weight:normal;">Fix filename in README instructions</span><br>
   - 🧮 Languages: Python 100.0%<br>
   - <span style="color:green;">➕ Lines Added: 0</span> <span style="color:red;">➖ Lines Deleted: 0</span>
 </p>
 
 <p>
-  <b style="color:#1f6feb;font-size:18px;">portfolio</b><br>
-  - 🕓 Last Commit: <span style="color:#6a737d;">`6f4dd7d`</span> <span style="font-weight:normal;">Updated completed projects</span><br>
-  - 🧮 Languages: TypeScript 96.9%, JavaScript 1.5%, CSS 1.1%, HTML 0.5%<br>
+  <b style="color:#1f6feb;font-size:18px;">Soccer-Player-Performance-Analysis</b><br>
+  - 🕓 Last Commit: <span style="color:#6a737d;">`b6e3d97`</span> <span style="font-weight:normal;">Added gif showing graph more indepth</span><br>
+  - 🧮 Languages: Jupyter Notebook 91.0%, Python 9.0%<br>
   - <span style="color:green;">➕ Lines Added: 0</span> <span style="color:red;">➖ Lines Deleted: 0</span>
 </p>
 
-<p>🕓 Last updated on April 06, 2026</p>
+<p>
+  <b style="color:#1f6feb;font-size:18px;">sebcsiz</b><br>
+  - 🕓 Last Commit: <span style="color:#6a737d;">`e0cdd4f`</span> <span style="font-weight:normal;">Auto-update README</span><br>
+  - 🧮 Languages: N/A<br>
+  - <span style="color:green;">➕ Lines Added: 0</span> <span style="color:red;">➖ Lines Deleted: 0</span>
+</p>
+
+<p>🕓 Last updated on April 13, 2026</p>
 
 
 ## 🎵 What I'm listening to
