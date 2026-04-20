@@ -77,6 +77,13 @@ A 4th Year Computer Science Student at The University of British Columbia
 ## 🧠 Latest Projects
 
 <p>
+  <b style="color:#1f6feb;font-size:18px;">sebcsiz</b><br>
+  - 🕓 Last Commit: <span style="color:#6a737d;">`dcd29ff`</span> <span style="font-weight:normal;">Auto-update README</span><br>
+  - 🧮 Languages: N/A<br>
+  - <span style="color:green;">➕ Lines Added: 0</span> <span style="color:red;">➖ Lines Deleted: 0</span>
+</p>
+
+<p>
   <b style="color:#1f6feb;font-size:18px;">Options-Market-Return-Analysis</b><br>
   - 🕓 Last Commit: <span style="color:#6a737d;">`e11d9d3`</span> <span style="font-weight:normal;">Fix filename in README instructions</span><br>
   - 🧮 Languages: Python 100.0%<br>
@@ -90,14 +97,7 @@ A 4th Year Computer Science Student at The University of British Columbia
   - <span style="color:green;">➕ Lines Added: 0</span> <span style="color:red;">➖ Lines Deleted: 0</span>
 </p>
 
-<p>
-  <b style="color:#1f6feb;font-size:18px;">sebcsiz</b><br>
-  - 🕓 Last Commit: <span style="color:#6a737d;">`e0cdd4f`</span> <span style="font-weight:normal;">Auto-update README</span><br>
-  - 🧮 Languages: N/A<br>
-  - <span style="color:green;">➕ Lines Added: 0</span> <span style="color:red;">➖ Lines Deleted: 0</span>
-</p>
-
-<p>🕓 Last updated on April 13, 2026</p>
+<p>🕓 Last updated on April 20, 2026</p>
 
 
 ## 🎵 What I'm listening to
