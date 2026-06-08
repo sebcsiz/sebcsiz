@@ -78,7 +78,7 @@ A 4th Year Computer Science Student at The University of British Columbia
 
 <p>
   <b style="color:#1f6feb;font-size:18px;">sebcsiz</b><br>
-  - 🕓 Last Commit: <span style="color:#6a737d;">`ec8ceb4`</span> <span style="font-weight:normal;">Auto-update README</span><br>
+  - 🕓 Last Commit: <span style="color:#6a737d;">`27f2a05`</span> <span style="font-weight:normal;">Auto-update README</span><br>
   - 🧮 Languages: N/A<br>
   - <span style="color:green;">➕ Lines Added: 0</span> <span style="color:red;">➖ Lines Deleted: 0</span>
 </p>
@@ -94,10 +94,10 @@ A 4th Year Computer Science Student at The University of British Columbia
   <b style="color:#1f6feb;font-size:18px;">portfolio</b><br>
   - 🕓 Last Commit: <span style="color:#6a737d;">`2a173bc`</span> <span style="font-weight:normal;">Added jersey project github link</span><br>
   - 🧮 Languages: TypeScript 96.9%, JavaScript 1.5%, CSS 1.1%, HTML 0.5%<br>
-  - <span style="color:green;">➕ Lines Added: 0</span> <span style="color:red;">➖ Lines Deleted: 0</span>
+  - <span style="color:green;">➕ Lines Added: 7576</span> <span style="color:red;">➖ Lines Deleted: 337</span>
 </p>
 
-<p>🕓 Last updated on June 01, 2026</p>
+<p>🕓 Last updated on June 08, 2026</p>
 
 
 ## 🎵 What I'm listening to
