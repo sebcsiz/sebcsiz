@@ -77,27 +77,27 @@ A 4th Year Computer Science Student at The University of British Columbia
 ## 🧠 Latest Projects
 
 <p>
+  <b style="color:#1f6feb;font-size:18px;">Soccer-Player-Performance-Analysis</b><br>
+  - 🕓 Last Commit: <span style="color:#6a737d;">`b6e3d97`</span> <span style="font-weight:normal;">Added gif showing graph more indepth</span><br>
+  - 🧮 Languages: Jupyter Notebook 91.0%, Python 9.0%<br>
+  - <span style="color:green;">➕ Lines Added: 0</span> <span style="color:red;">➖ Lines Deleted: 0</span>
+</p>
+
+<p>
+  <b style="color:#1f6feb;font-size:18px;">Payment-Risk-Platform</b><br>
+  - 🕓 Last Commit: <span style="color:#6a737d;">`4c9cd13`</span> <span style="font-weight:normal;">docs: security hardening, env templates, and portfolio README</span> -  .gitignore: add *.env, .env.*, backend/ml/model/*.joblib|*.pkl, .claude/, temp.md, .idea/ — ensures credentials and ML artifacts are never committed. Negation rules !*.example track the template files.  .env.example / backend/app/.env.example / frontend/.env.local.example: placeholder templates with generation instructions for SECRET_KEY, DB credentials, Stripe, and SendGrid keys.  README.md: complete rewrite for job-hunt portfolio — overview, tech-stack table, ASCII architecture diagram, feature walkthrough, ML pipeline deep dive (feature engineering, XGBoost training, top feature importances, human-in-the-loop retraining cycle), project structure tree, getting-started guide, ML training and rescore docs, environment variable reference, API reference, and design decisions.  Co-Authored-By: Claude Sonnet 4.6 <noreply@anthropic.com><br>
+  - 🧮 Languages: Python 57.7%, JavaScript 25.6%, CSS 16.4%, Dockerfile 0.1%, Shell 0.1%, TypeScript 0.0%<br>
+  - <span style="color:green;">➕ Lines Added: 0</span> <span style="color:red;">➖ Lines Deleted: 0</span>
+</p>
+
+<p>
   <b style="color:#1f6feb;font-size:18px;">sebcsiz</b><br>
-  - 🕓 Last Commit: <span style="color:#6a737d;">`27f2a05`</span> <span style="font-weight:normal;">Auto-update README</span><br>
+  - 🕓 Last Commit: <span style="color:#6a737d;">`7d6d650`</span> <span style="font-weight:normal;">Auto-update README</span><br>
   - 🧮 Languages: N/A<br>
   - <span style="color:green;">➕ Lines Added: 0</span> <span style="color:red;">➖ Lines Deleted: 0</span>
 </p>
 
-<p>
-  <b style="color:#1f6feb;font-size:18px;">jersey-number-recognition-team8</b><br>
-  - 🕓 Last Commit: <span style="color:#6a737d;">`f6fd0d6`</span> <span style="font-weight:normal;">Merge pull request #2 from sebcsiz/esrgan</span> -  Implemented ESRGAN and added to README<br>
-  - 🧮 Languages: Jupyter Notebook 92.5%, Python 7.5%, Makefile 0.0%<br>
-  - <span style="color:green;">➕ Lines Added: 0</span> <span style="color:red;">➖ Lines Deleted: 0</span>
-</p>
-
-<p>
-  <b style="color:#1f6feb;font-size:18px;">portfolio</b><br>
-  - 🕓 Last Commit: <span style="color:#6a737d;">`2a173bc`</span> <span style="font-weight:normal;">Added jersey project github link</span><br>
-  - 🧮 Languages: TypeScript 96.9%, JavaScript 1.5%, CSS 1.1%, HTML 0.5%<br>
-  - <span style="color:green;">➕ Lines Added: 7576</span> <span style="color:red;">➖ Lines Deleted: 337</span>
-</p>
-
-<p>🕓 Last updated on June 08, 2026</p>
+<p>🕓 Last updated on June 15, 2026</p>
 
 
 ## 🎵 What I'm listening to
