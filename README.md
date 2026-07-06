@@ -78,7 +78,7 @@ A 4th Year Computer Science Student at The University of British Columbia
 
 <p>
   <b style="color:#1f6feb;font-size:18px;">sebcsiz</b><br>
-  - 🕓 Last Commit: <span style="color:#6a737d;">`6a56f74`</span> <span style="font-weight:normal;">Auto-update README</span><br>
+  - 🕓 Last Commit: <span style="color:#6a737d;">`d24473e`</span> <span style="font-weight:normal;">Auto-update README</span><br>
   - 🧮 Languages: N/A<br>
   - <span style="color:green;">➕ Lines Added: 0</span> <span style="color:red;">➖ Lines Deleted: 0</span>
 </p>
@@ -87,17 +87,17 @@ A 4th Year Computer Science Student at The University of British Columbia
   <b style="color:#1f6feb;font-size:18px;">Soccer-Player-Performance-Analysis</b><br>
   - 🕓 Last Commit: <span style="color:#6a737d;">`b6e3d97`</span> <span style="font-weight:normal;">Added gif showing graph more indepth</span><br>
   - 🧮 Languages: Jupyter Notebook 91.0%, Python 9.0%<br>
-  - <span style="color:green;">➕ Lines Added: 2326</span> <span style="color:red;">➖ Lines Deleted: 1408</span>
+  - <span style="color:green;">➕ Lines Added: 0</span> <span style="color:red;">➖ Lines Deleted: 0</span>
 </p>
 
 <p>
   <b style="color:#1f6feb;font-size:18px;">Payment-Risk-Platform</b><br>
   - 🕓 Last Commit: <span style="color:#6a737d;">`4c9cd13`</span> <span style="font-weight:normal;">docs: security hardening, env templates, and portfolio README</span> -  .gitignore: add *.env, .env.*, backend/ml/model/*.joblib|*.pkl, .claude/, temp.md, .idea/ — ensures credentials and ML artifacts are never committed. Negation rules !*.example track the template files.  .env.example / backend/app/.env.example / frontend/.env.local.example: placeholder templates with generation instructions for SECRET_KEY, DB credentials, Stripe, and SendGrid keys.  README.md: complete rewrite for job-hunt portfolio — overview, tech-stack table, ASCII architecture diagram, feature walkthrough, ML pipeline deep dive (feature engineering, XGBoost training, top feature importances, human-in-the-loop retraining cycle), project structure tree, getting-started guide, ML training and rescore docs, environment variable reference, API reference, and design decisions.  Co-Authored-By: Claude Sonnet 4.6 <noreply@anthropic.com><br>
   - 🧮 Languages: Python 57.7%, JavaScript 25.6%, CSS 16.4%, Dockerfile 0.1%, Shell 0.1%, TypeScript 0.0%<br>
-  - <span style="color:green;">➕ Lines Added: 63769</span> <span style="color:red;">➖ Lines Deleted: 4272</span>
+  - <span style="color:green;">➕ Lines Added: 0</span> <span style="color:red;">➖ Lines Deleted: 0</span>
 </p>
 
-<p>🕓 Last updated on June 29, 2026</p>
+<p>🕓 Last updated on July 06, 2026</p>
 
 
 ## 🎵 What I'm listening to
