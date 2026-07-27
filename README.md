@@ -77,8 +77,15 @@ A 4th Year Computer Science Student at The University of British Columbia
 ## 🧠 Latest Projects
 
 <p>
+  <b style="color:#1f6feb;font-size:18px;">canvas-ai-training</b><br>
+  - 🕓 Last Commit: <span style="color:#6a737d;">`e91500a`</span> <span style="font-weight:normal;">Add post_announcement action, code_files/rubric file targeting, and generated dataset</span> -  - Add post_announcement as a 19th supported action (system.txt, data.yaml,   teacher.txt few-shots), confirmed via a real Canvas action_history export   that wasn't reflected in the main app's intent.py yet. - Add code_files (starter/stub code per problem) and rubric_criteria.file_index   for coding assignments, so create_assignment can grade specific files. - Ground synthetic generation in real course/assignment topics (COSC 310/499)   seen in that action_history export. - Harden convert_to_chatml.py/user_turn.py against non-conformant teacher   output (dict-shaped recent_messages, malformed examples) instead of   crashing the whole conversion run. - Lower qlora.yaml batch size / raise max_seq_length and gradient accumulation   to fit the longer code_files-bearing examples in memory. - Add the generated synthetic/processed/train/validation/test datasets from   this run.<br>
+  - 🧮 Languages: Python 96.1%, Shell 3.9%<br>
+  - <span style="color:green;">➕ Lines Added: 77110</span> <span style="color:red;">➖ Lines Deleted: 3789</span>
+</p>
+
+<p>
   <b style="color:#1f6feb;font-size:18px;">sebcsiz</b><br>
-  - 🕓 Last Commit: <span style="color:#6a737d;">`eba4102`</span> <span style="font-weight:normal;">Auto-update README</span><br>
+  - 🕓 Last Commit: <span style="color:#6a737d;">`5d98510`</span> <span style="font-weight:normal;">Auto-update README</span><br>
   - 🧮 Languages: N/A<br>
   - <span style="color:green;">➕ Lines Added: 0</span> <span style="color:red;">➖ Lines Deleted: 0</span>
 </p>
@@ -87,17 +94,10 @@ A 4th Year Computer Science Student at The University of British Columbia
   <b style="color:#1f6feb;font-size:18px;">Soccer-Player-Performance-Analysis</b><br>
   - 🕓 Last Commit: <span style="color:#6a737d;">`b6e3d97`</span> <span style="font-weight:normal;">Added gif showing graph more indepth</span><br>
   - 🧮 Languages: Jupyter Notebook 91.0%, Python 9.0%<br>
-  - <span style="color:green;">➕ Lines Added: 0</span> <span style="color:red;">➖ Lines Deleted: 0</span>
+  - <span style="color:green;">➕ Lines Added: 2326</span> <span style="color:red;">➖ Lines Deleted: 1408</span>
 </p>
 
-<p>
-  <b style="color:#1f6feb;font-size:18px;">Payment-Risk-Platform</b><br>
-  - 🕓 Last Commit: <span style="color:#6a737d;">`4c9cd13`</span> <span style="font-weight:normal;">docs: security hardening, env templates, and portfolio README</span> -  .gitignore: add *.env, .env.*, backend/ml/model/*.joblib|*.pkl, .claude/, temp.md, .idea/ — ensures credentials and ML artifacts are never committed. Negation rules !*.example track the template files.  .env.example / backend/app/.env.example / frontend/.env.local.example: placeholder templates with generation instructions for SECRET_KEY, DB credentials, Stripe, and SendGrid keys.  README.md: complete rewrite for job-hunt portfolio — overview, tech-stack table, ASCII architecture diagram, feature walkthrough, ML pipeline deep dive (feature engineering, XGBoost training, top feature importances, human-in-the-loop retraining cycle), project structure tree, getting-started guide, ML training and rescore docs, environment variable reference, API reference, and design decisions.  Co-Authored-By: Claude Sonnet 4.6 <noreply@anthropic.com><br>
-  - 🧮 Languages: Python 57.7%, JavaScript 25.6%, CSS 16.4%, Dockerfile 0.1%, Shell 0.1%, TypeScript 0.0%<br>
-  - <span style="color:green;">➕ Lines Added: 0</span> <span style="color:red;">➖ Lines Deleted: 0</span>
-</p>
-
-<p>🕓 Last updated on July 20, 2026</p>
+<p>🕓 Last updated on July 27, 2026</p>
 
 
 ## 🎵 What I'm listening to
