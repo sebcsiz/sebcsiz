@@ -78,14 +78,14 @@ A 4th Year Computer Science Student at The University of British Columbia
 
 <p>
   <b style="color:#1f6feb;font-size:18px;">canvas-ai-training</b><br>
-  - 🕓 Last Commit: <span style="color:#6a737d;">`e91500a`</span> <span style="font-weight:normal;">Add post_announcement action, code_files/rubric file targeting, and generated dataset</span> -  - Add post_announcement as a 19th supported action (system.txt, data.yaml,   teacher.txt few-shots), confirmed via a real Canvas action_history export   that wasn't reflected in the main app's intent.py yet. - Add code_files (starter/stub code per problem) and rubric_criteria.file_index   for coding assignments, so create_assignment can grade specific files. - Ground synthetic generation in real course/assignment topics (COSC 310/499)   seen in that action_history export. - Harden convert_to_chatml.py/user_turn.py against non-conformant teacher   output (dict-shaped recent_messages, malformed examples) instead of   crashing the whole conversion run. - Lower qlora.yaml batch size / raise max_seq_length and gradient accumulation   to fit the longer code_files-bearing examples in memory. - Add the generated synthetic/processed/train/validation/test datasets from   this run.<br>
-  - 🧮 Languages: Python 96.1%, Shell 3.9%<br>
-  - <span style="color:green;">➕ Lines Added: 77110</span> <span style="color:red;">➖ Lines Deleted: 3789</span>
+  - 🕓 Last Commit: <span style="color:#6a737d;">`24f902c`</span> <span style="font-weight:normal;">Push changes</span><br>
+  - 🧮 Languages: Python 95.5%, Shell 4.5%<br>
+  - <span style="color:green;">➕ Lines Added: 0</span> <span style="color:red;">➖ Lines Deleted: 0</span>
 </p>
 
 <p>
   <b style="color:#1f6feb;font-size:18px;">sebcsiz</b><br>
-  - 🕓 Last Commit: <span style="color:#6a737d;">`5d98510`</span> <span style="font-weight:normal;">Auto-update README</span><br>
+  - 🕓 Last Commit: <span style="color:#6a737d;">`6d8aaa5`</span> <span style="font-weight:normal;">Auto-update README</span><br>
   - 🧮 Languages: N/A<br>
   - <span style="color:green;">➕ Lines Added: 0</span> <span style="color:red;">➖ Lines Deleted: 0</span>
 </p>
@@ -94,10 +94,10 @@ A 4th Year Computer Science Student at The University of British Columbia
   <b style="color:#1f6feb;font-size:18px;">Soccer-Player-Performance-Analysis</b><br>
   - 🕓 Last Commit: <span style="color:#6a737d;">`b6e3d97`</span> <span style="font-weight:normal;">Added gif showing graph more indepth</span><br>
   - 🧮 Languages: Jupyter Notebook 91.0%, Python 9.0%<br>
-  - <span style="color:green;">➕ Lines Added: 2326</span> <span style="color:red;">➖ Lines Deleted: 1408</span>
+  - <span style="color:green;">➕ Lines Added: 0</span> <span style="color:red;">➖ Lines Deleted: 0</span>
 </p>
 
-<p>🕓 Last updated on July 27, 2026</p>
+<p>🕓 Last updated on August 03, 2026</p>
 
 
 ## 🎵 What I'm listening to
