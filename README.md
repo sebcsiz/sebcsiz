@@ -77,27 +77,27 @@ A 4th Year Computer Science Student at The University of British Columbia
 ## 🧠 Latest Projects
 
 <p>
-  <b style="color:#1f6feb;font-size:18px;">canvas-ai-training</b><br>
-  - 🕓 Last Commit: <span style="color:#6a737d;">`24f902c`</span> <span style="font-weight:normal;">Push changes</span><br>
-  - 🧮 Languages: Python 95.5%, Shell 4.5%<br>
+  <b style="color:#1f6feb;font-size:18px;">sebcsiz</b><br>
+  - 🕓 Last Commit: <span style="color:#6a737d;">`685c7d6`</span> <span style="font-weight:normal;">Auto-update README</span><br>
+  - 🧮 Languages: N/A<br>
   - <span style="color:green;">➕ Lines Added: 0</span> <span style="color:red;">➖ Lines Deleted: 0</span>
 </p>
 
 <p>
-  <b style="color:#1f6feb;font-size:18px;">sebcsiz</b><br>
-  - 🕓 Last Commit: <span style="color:#6a737d;">`6d8aaa5`</span> <span style="font-weight:normal;">Auto-update README</span><br>
-  - 🧮 Languages: N/A<br>
-  - <span style="color:green;">➕ Lines Added: 0</span> <span style="color:red;">➖ Lines Deleted: 0</span>
+  <b style="color:#1f6feb;font-size:18px;">canvas-ai-training</b><br>
+  - 🕓 Last Commit: <span style="color:#6a737d;">`24f902c`</span> <span style="font-weight:normal;">Push changes</span><br>
+  - 🧮 Languages: Python 95.5%, Shell 4.5%<br>
+  - <span style="color:green;">➕ Lines Added: 77227</span> <span style="color:red;">➖ Lines Deleted: 3804</span>
 </p>
 
 <p>
   <b style="color:#1f6feb;font-size:18px;">Soccer-Player-Performance-Analysis</b><br>
   - 🕓 Last Commit: <span style="color:#6a737d;">`b6e3d97`</span> <span style="font-weight:normal;">Added gif showing graph more indepth</span><br>
   - 🧮 Languages: Jupyter Notebook 91.0%, Python 9.0%<br>
-  - <span style="color:green;">➕ Lines Added: 0</span> <span style="color:red;">➖ Lines Deleted: 0</span>
+  - <span style="color:green;">➕ Lines Added: 2326</span> <span style="color:red;">➖ Lines Deleted: 1408</span>
 </p>
 
-<p>🕓 Last updated on August 03, 2026</p>
+<p>🕓 Last updated on August 10, 2026</p>
 
 
 ## 🎵 What I'm listening to
