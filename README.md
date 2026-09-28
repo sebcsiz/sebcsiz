@@ -78,14 +78,14 @@ A 4th Year Computer Science Student at The University of British Columbia
 
 <p>
   <b style="color:#1f6feb;font-size:18px;">COSC-421</b><br>
-  - 🕓 Last Commit: <span style="color:#6a737d;">`3a5c1cf`</span> <span style="font-weight:normal;">Added current repo</span><br>
+  - 🕓 Last Commit: <span style="color:#6a737d;">`a03dea9`</span> <span style="font-weight:normal;">Code for questions A-D, some of E & F</span><br>
   - 🧮 Languages: R 100.0%<br>
   - <span style="color:green;">➕ Lines Added: 0</span> <span style="color:red;">➖ Lines Deleted: 0</span>
 </p>
 
 <p>
   <b style="color:#1f6feb;font-size:18px;">sebcsiz</b><br>
-  - 🕓 Last Commit: <span style="color:#6a737d;">`fab7ec5`</span> <span style="font-weight:normal;">Auto-update README</span><br>
+  - 🕓 Last Commit: <span style="color:#6a737d;">`6ba8852`</span> <span style="font-weight:normal;">Auto-update README</span><br>
   - 🧮 Languages: N/A<br>
   - <span style="color:green;">➕ Lines Added: 0</span> <span style="color:red;">➖ Lines Deleted: 0</span>
 </p>
@@ -94,10 +94,10 @@ A 4th Year Computer Science Student at The University of British Columbia
   <b style="color:#1f6feb;font-size:18px;">canvas-ai-training</b><br>
   - 🕓 Last Commit: <span style="color:#6a737d;">`24f902c`</span> <span style="font-weight:normal;">Push changes</span><br>
   - 🧮 Languages: Python 95.5%, Shell 4.5%<br>
-  - <span style="color:green;">➕ Lines Added: 77227</span> <span style="color:red;">➖ Lines Deleted: 3804</span>
+  - <span style="color:green;">➕ Lines Added: 0</span> <span style="color:red;">➖ Lines Deleted: 0</span>
 </p>
 
-<p>🕓 Last updated on September 21, 2026</p>
+<p>🕓 Last updated on September 28, 2026</p>
 
 
 ## 🎵 What I'm listening to
