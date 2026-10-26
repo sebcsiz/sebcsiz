@@ -78,7 +78,7 @@ A 4th Year Computer Science Student at The University of British Columbia
 
 <p>
   <b style="color:#1f6feb;font-size:18px;">sebcsiz</b><br>
-  - 🕓 Last Commit: <span style="color:#6a737d;">`87e1ea5`</span> <span style="font-weight:normal;">Auto-update README</span><br>
+  - 🕓 Last Commit: <span style="color:#6a737d;">`3ab67c0`</span> <span style="font-weight:normal;">Auto-update README</span><br>
   - 🧮 Languages: N/A<br>
   - <span style="color:green;">➕ Lines Added: 0</span> <span style="color:red;">➖ Lines Deleted: 0</span>
 </p>
@@ -87,17 +87,17 @@ A 4th Year Computer Science Student at The University of British Columbia
   <b style="color:#1f6feb;font-size:18px;">portfolio</b><br>
   - 🕓 Last Commit: <span style="color:#6a737d;">`91d5fec`</span> <span style="font-weight:normal;">Redesign portfolio as an interactive hobby-themed hub (#3)</span> -  - Replace the scrolling page with a single-screen hub in three hobby   skins (soccer pitch, snowboarding mountain, arcade controller),   switchable from the top bar - Open About, Projects, Coursework, Research, Terminal and Contact as   rooms with hash routing; old #/about and #coursework links still work - Add a Research room with the options-returns and jersey-recognition   papers, and a work experience section for the ROSEN internship - Give every project and paper an animated cover; animate the favicon - Add easter eggs: rocket mode and a moon landing on the mountain, and   the Konami Code (after SELECT) on the arcade controller - Update coursework and project statuses - Mobile and touch pass; drop react-router-dom  Co-authored-by: Claude Opus 5.5 <noreply@anthropic.com><br>
   - 🧮 Languages: TypeScript 94.9%, CSS 3.9%, JavaScript 0.7%, HTML 0.5%<br>
-  - <span style="color:green;">➕ Lines Added: 16360</span> <span style="color:red;">➖ Lines Deleted: 4653</span>
+  - <span style="color:green;">➕ Lines Added: 0</span> <span style="color:red;">➖ Lines Deleted: 0</span>
 </p>
 
 <p>
   <b style="color:#1f6feb;font-size:18px;">COSC-421</b><br>
   - 🕓 Last Commit: <span style="color:#6a737d;">`a03dea9`</span> <span style="font-weight:normal;">Code for questions A-D, some of E & F</span><br>
   - 🧮 Languages: R 100.0%<br>
-  - <span style="color:green;">➕ Lines Added: 2326</span> <span style="color:red;">➖ Lines Deleted: 301</span>
+  - <span style="color:green;">➕ Lines Added: 0</span> <span style="color:red;">➖ Lines Deleted: 0</span>
 </p>
 
-<p>🕓 Last updated on October 19, 2026</p>
+<p>🕓 Last updated on October 26, 2026</p>
 
 
 ## 🎵 What I'm listening to
